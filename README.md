@@ -4,9 +4,9 @@ It displays patient information and a doctor's orders table using data fetched f
 
 Tech Stack:
 
-React – for component-based UI.
-TypeScript – for type safety and better developer experience.
-React Query – for data fetching, caching.
+React – for component-based UI, 
+TypeScript – for type safety and better developer experience, 
+React Query – for data fetching, caching, 
 Bootstrap 5
 
 ## How to Run the Project
