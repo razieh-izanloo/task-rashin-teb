@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  width: 100%;
+}
+
+th,
+td {
+  border: 2px solid #000 !important;
+  vertical-align: middle !important;
+}
+
+.table-light {
+  background-color: hashtag#f8f9fa !important;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  th,
+  td {
+    font-size: 12px;
+    padding: 4px;
+  }
+}
+
+.footer {
+  background-color: #a5a5a5 !important;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 19px !important;
+  padding-bottom: 19px !important;
+}
+
+.text-12px {
+  font-size: 12px;
+}
+.border-b-0 {
+  border-bottom: 0 !important;
+}
