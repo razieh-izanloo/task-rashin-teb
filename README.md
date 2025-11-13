@@ -1,3 +1,16 @@
+Overview
+
+This project is a simple React + TypeScript web app built.
+It displays patient information and a doctor's orders table using data fetched from an API.
+
+Tech Stack:
+
+React – for component-based UI.
+TypeScript – for type safety and better developer experience.
+React Query – for data fetching, caching.
+Bootstrap 5
+
+   
    ```bash
    npm i
    npm run dev
